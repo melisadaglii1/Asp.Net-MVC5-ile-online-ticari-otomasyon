@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvconlineticariotomasyonu", "mvconlineticariotomasyonu\mvconlineticariotomasyonu.csproj", "{5B990BA5-0671-410F-84CF-23EAAE2FE5AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B990BA5-0671-410F-84CF-23EAAE2FE5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B990BA5-0671-410F-84CF-23EAAE2FE5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B990BA5-0671-410F-84CF-23EAAE2FE5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B990BA5-0671-410F-84CF-23EAAE2FE5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FE9385B-CA0F-417E-BBDE-7B604086CCEE}
+	EndGlobalSection
+EndGlobal
